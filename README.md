@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @enam-haque
-- 👀 I’m interested in web development, quantitative finance, and 
+- 👋 Hi, I’m Enam Haque.
+- 👀 I’m interested in web development and quantitative finance.
 - 🌱 I’m currently learning C++ and Javascript.
-- 💞️ I’m looking to collaborate on any projects.
+- 💞️ I’m looking to collaborate on any projects (web development or data-science related).
 
 <!---
 enam-haque/enam-haque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
